@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+mss
+pygetwindow
+numpy
+pyobjc-core; sys_platform == 'darwin'
+pyobjc; sys_platform == 'darwin'
